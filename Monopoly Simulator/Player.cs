@@ -25,10 +25,13 @@ namespace Monopoly_Simulator
 
         List<Property> properitesOwned;
 
-        public int RollDice()
+        public int[] RollDice()
         {
-            Random rand = new Random(Int32.Parse(DateTime.Now.ToString("HHmm")));
-            return (rand.Next() % 6) + 1;
+            int[] rolled = new int[2];
+            Random rand = new Random();
+            rolled[0] = (rand.Next(1, 7));
+            rolled[1] = (rand.Next(1, 7));
+            return rolled;
         }
     }
 }

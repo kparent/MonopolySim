@@ -1,2 +1,6 @@
 c:\users\kyle\documents\visual studio 2012\Projects\Monopoly Simulator\Monopoly Simulator\bin\Debug\Monopoly Simulator.exe.config
 c:\users\kyle\documents\visual studio 2012\Projects\Monopoly Simulator\Monopoly Simulator\obj\Debug\Monopoly Simulator.csprojResolveAssemblyReference.cache
+C:\Users\Kyle\Documents\Visual Studio 2012\Projects\Monopoly Simulator\Monopoly Simulator\bin\Debug\Monopoly Simulator.exe
+C:\Users\Kyle\Documents\Visual Studio 2012\Projects\Monopoly Simulator\Monopoly Simulator\bin\Debug\Monopoly Simulator.pdb
+C:\Users\Kyle\Documents\Visual Studio 2012\Projects\Monopoly Simulator\Monopoly Simulator\obj\Debug\Monopoly Simulator.exe
+C:\Users\Kyle\Documents\Visual Studio 2012\Projects\Monopoly Simulator\Monopoly Simulator\obj\Debug\Monopoly Simulator.pdb
