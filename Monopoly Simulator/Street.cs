@@ -23,10 +23,5 @@ namespace Monopoly_Simulator
             Four,
             Hotel
         }
-
-        public override void IsLandedOnBy(Player player)
-        {
-            return;
-        }
     }
 }

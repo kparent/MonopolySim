@@ -10,6 +10,11 @@ namespace Monopoly_Simulator
     {
         String name;
 
+        /// <summary>
+        /// Action when a space on the board
+        /// is landed on
+        /// </summary>
+        /// <param name="player">Player who lands on the board</param>
         public abstract void IsLandedOnBy(Player player); 
     }
 }

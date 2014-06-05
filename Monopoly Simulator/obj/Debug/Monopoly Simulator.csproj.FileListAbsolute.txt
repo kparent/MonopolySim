@@ -4,3 +4,6 @@ C:\Users\Kyle\Documents\Visual Studio 2012\Projects\Monopoly Simulator\Monopoly 
 C:\Users\Kyle\Documents\Visual Studio 2012\Projects\Monopoly Simulator\Monopoly Simulator\bin\Debug\Monopoly Simulator.pdb
 C:\Users\Kyle\Documents\Visual Studio 2012\Projects\Monopoly Simulator\Monopoly Simulator\obj\Debug\Monopoly Simulator.exe
 C:\Users\Kyle\Documents\Visual Studio 2012\Projects\Monopoly Simulator\Monopoly Simulator\obj\Debug\Monopoly Simulator.pdb
+C:\Users\Box Inc\Documents\Visual Studio 2012\Monopoly Simulator\Monopoly Simulator\bin\Debug\Monopoly Simulator.exe.config
+C:\Users\Box Inc\Documents\Visual Studio 2012\Monopoly Simulator\Monopoly Simulator\obj\Debug\Monopoly Simulator.exe
+C:\Users\Box Inc\Documents\Visual Studio 2012\Monopoly Simulator\Monopoly Simulator\obj\Debug\Monopoly Simulator.pdb
