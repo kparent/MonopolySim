@@ -6,11 +6,8 @@ using System.Threading.Tasks;
 
 namespace Monopoly_Simulator
 {
-    class Board
+    class Railroad : Property
     {
-        private readonly int NUM_SPACES;
-
-        Space[] spaces;
 
     }
 }

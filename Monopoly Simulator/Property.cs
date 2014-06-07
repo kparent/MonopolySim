@@ -8,7 +8,6 @@ namespace Monopoly_Simulator
 {
     abstract class Property : Space
     {
-        public String  name;
         public int     price; 
         public Boolean isOwned;
         public Player  owner;

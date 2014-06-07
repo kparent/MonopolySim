@@ -8,7 +8,7 @@ namespace Monopoly_Simulator
 {
     abstract class Space
     {
-        String name;
+        public String name;
 
         /// <summary>
         /// Action when a space on the board
